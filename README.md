@@ -3,9 +3,10 @@
 </div>
 <div style="text-align: center;">
     <a href="https://linkbio.co/6040417MvQHxQ">
-        <img src="https://i.ibb.co/Str14zX/banner.png" alt="banner" border="0">
+        <img src="https://i.ibb.co/Str14zX/banner.png" alt="banner" border="0" width="50000000">
     </a>
 </div>
+
 
 ![GitHub followers](https://img.shields.io/github/followers/gabrielScipioni?style=social&label=Compradores&labelColor=%230a0a0a&color=%23fcf75e&cacheSeconds=https%3A%2F%2Fgithub.com%2FGabrielScipioni)
 [![Instagram](https://img.shields.io/badge/Instagram-%40gabri__dev-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/gabri__dev/?hl=es-es)
