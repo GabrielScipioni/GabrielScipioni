@@ -23,6 +23,4 @@
 </p>
 
 
-- ⭐ Puliendo ⭐ 
-- 📷 Instagram 📷 `Muestro mis proyectos`
 ---
